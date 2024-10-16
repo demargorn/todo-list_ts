@@ -1,0 +1,17 @@
+{
+   "name": "todo_project_ts",
+   "version": "1.0.0",
+   "main": "app.js",
+   "scripts": {
+      "start": "tsc --watch"
+   },
+   "keywords": [
+      "todo"
+   ],
+   "author": "demargorn",
+   "license": "ISC",
+   "description": "",
+   "devDependencies": {
+      "typescript": "^5.6.3"
+   }
+}
